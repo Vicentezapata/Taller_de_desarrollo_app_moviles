@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <!-- VARIABLES DE FORMULARIOS -->
+    <string name="til_user">Correo</string>
+    <string name="til_pass">Contraseña</string>
+    <string name="til_name">Nombre</string>
+    <string name="til_rpass">Repetir contraseña</string>
+    <string name="btn_login">Iniciar sesion</string>
+    <string name="btn_register">Registrarme</string>
+    <string name="mj_select_option">Seleccione una opcion</string>
+    <string-array name="sp_category">
+        <item>@string/mj_select_option</item>
+        <item>Verano</item>
+        <item>Primavera</item>
+        <item>Otoño</item>
+        <item>Invierno</item>
+    </string-array>
+    <string-array name="lv_datos">
+        <item>Tequila margarita</item>
+        <item>La cucaracha</item>
+        <item>Mojito</item>
+        <item>Moscow mule</item>
+        <item>Pisco sour</item>
+        <item>Amaretto sour</item>
+        <item>Ponche</item>
+        <item>Chupilca del diablo</item>
+        <item>Pihuinche</item>
+        <item>Serena sour</item>
+        <item>Piña colada</item>
+        <item>Bloody mojito</item>
+        <item>Hand Shandy</item>
+    </string-array>
+</resources>
