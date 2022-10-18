@@ -50,6 +50,20 @@
         <li><a href="#codigo-unidad-2">Codigo unidad 2</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#unidad-3">Unidad 3</a>
+      <ul>
+        <li><a href="#videos-unidad-3">Videos unidad 3</a>
+          <ul>
+           <li><a href="#3.1">3.1	Room - Registrar usuario en base de datos local</a></li>
+           <li><a href="#3.2">3.2	Room - Iniciar sesion en base de datos local</a></li>
+           <li><a href="#3.3">3.3	Room - Regisrtar elementos en base de datos local</a></li>
+           <li><a href="#3.4">3.4	Room - Listar elementos de base de datos local en listView</a></li>
+          </ul>
+        </li>
+        <li><a href="#codigo-unidad-3">Codigo unidad 3</a></li>
+      </ul>
+    </li>
     <li><a href="#licencia">Licencia</a></li>
     <li><a href="#contacto">Contacto</a></li>
   </ol>
@@ -130,6 +144,28 @@ https://user-images.githubusercontent.com/21310925/196528038-c832a05c-aeae-41fa-
 ### <h3>Codigo unidad 2</h3>
 Codigo de proyecto seccion 1.0 a 2.12
 [MiPrimeraApp_backup_1.0-2.12.zip](https://github.com/Vicentezapata/Taller_de_desarrollo_app_moviles/files/9814633/MiPrimeraApp_backup_1.0-2.12.zip)
+
+
+
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
+
+## <h1 align="center">UNIDAD 3</h1>
+
+### <h3>Videos unidad 3</h3>
+#### <h4 id="3.1">3.1	Room - Registrar usuario en base de datos local</h4>
+https://user-images.githubusercontent.com/21310925/196563570-1a739fa6-1e53-4376-84d1-a22e9a18b8eb.mp4
+#### <h4 id="3.2">3.2 Room - Iniciar sesion en base de datos local</h4>
+https://user-images.githubusercontent.com/21310925/196563597-23a0f2ba-a9d6-4c5b-b192-0926c829b90e.mp4
+#### <h4 id="3.3">3.3	 Registrar elementos en base de datos local</h4>
+https://user-images.githubusercontent.com/21310925/196563603-cd635aa0-5afb-4145-9520-16bcb8ef4145.mp4
+#### <h4 id="3.4">3.4	Room - Listar elementos de base de datos local en listView </h4>
+https://user-images.githubusercontent.com/21310925/196563610-ae5b04d4-ddef-4eef-a8c4-22c2c79ff882.mp4
+
+
+### <h3>Codigo unidad 3</h3>
+Codigo de proyecto seccion 1.0 a 2.12 y 3.1 a 3.4
+[MiPrimeraApp_backup_1.0-2.12&3.1-3.4.zip](https://github.com/Vicentezapata/Taller_de_desarrollo_app_moviles/files/9815657/MiPrimeraApp_backup_1.0-2.12.3.1-3.4.zip)
+
 
 
 
