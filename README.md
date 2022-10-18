@@ -128,6 +128,8 @@ https://user-images.githubusercontent.com/21310925/196528038-c832a05c-aeae-41fa-
 
 
 ### <h3>Codigo unidad 2</h3>
+Codigo de proyecto seccion 1.0 a 2.12
+[MiPrimeraApp_backup_1.0-2.12.zip](https://github.com/Vicentezapata/Taller_de_desarrollo_app_moviles/files/9814633/MiPrimeraApp_backup_1.0-2.12.zip)
 
 
 
