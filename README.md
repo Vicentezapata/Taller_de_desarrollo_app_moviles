@@ -42,6 +42,9 @@
            <li><a href="#2.7">2.7	Variables de preferencias</a></li>
            <li><a href="#2.8">2.8	Exportacion de apk</a></li>
            <li><a href="#2.9">2.9	Datepickers</a></li>
+           <li><a href="#2.10">2.10	ArrayApapter en spinner y listview</a></li>
+           <li><a href="#2.11">2.11	Spinner dinamicos</a></li>
+           <li><a href="#2.12">2.12	AlertDialog (Diálogos)</a></li>
           </ul>
         </li>
         <li><a href="#codigo-unidad-2">Codigo unidad 2</a></li>
@@ -114,6 +117,13 @@ https://user-images.githubusercontent.com/21310925/196105412-1fa76f25-1af0-4114-
 #### <h4 id="2.8">2.8	Exportacion de apk</h4>
 https://user-images.githubusercontent.com/21310925/196105423-43f3bea8-5a9f-4e9b-bd84-007277dec03a.mp4
 #### <h4 id="2.9">2.9	Datepickers</h4>
+https://user-images.githubusercontent.com/21310925/196527700-1775889b-9ce8-4765-a523-99f8adb0164d.mp4
+#### <h4 id="2.10">2.10	ArrayApapter en spinner y listview</h4>
+https://user-images.githubusercontent.com/21310925/196527837-9638f825-fdd8-4598-a2b6-2d5ecf242690.mp4
+#### <h4 id="2.11">2.11	Spinner dinamicos</h4>
+https://user-images.githubusercontent.com/21310925/196527925-0920eedd-c309-4b00-b30f-a27fdbbfd397.mp4
+#### <h4 id="2.12">2.12	AlertDialog (Diálogos)</h4>
+https://user-images.githubusercontent.com/21310925/196528038-c832a05c-aeae-41fa-938b-68ca7f88fdd4.mp4
 
 
 
